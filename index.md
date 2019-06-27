@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+This week’s reading seemed to be centered around the debates surrounding certain base forms of communication and spreading of information. The readings concerning the telegraph and the “end-to-end” term were based on controversy and the author’s opinion that there was a lack of respect towards each of these. I was fascinated mainly by how the telegraph transformed businesses when it was created. 
+It seemed natural to me to assume that the telegraph would separate physical movement from communication. However, I found the section about arbitrage and the transformation of business language incredibly interesting. The telegraph greatly expanded business markets for all consumers and in all cities because communication was so quick and streamlined. The specific example from the reading talked about how the market in Cincinnati completely changed with the telegraph because all prices on the market became available (Carey 2009). 
+The “end-to-end” conversation was very informative in explaining the means by which technology works. The internet was a revolutionary innovation because it made the world monumentally smaller and more connected; the way it did this was centered on “end-to-end” technology. The idea that information could be broken up and spread out arbitrarily then could recollect on a screen was an incredible discovery but was also one that required significant litigation (Gillespie 2006). 
+In the court of law “end-to-end” technology has been defined a number of ways based on its purpose (Gillespie 2006). In many cases the purposes have differed but overall the main use of “end-to-end” technology has been in creating a functioning internet and actually understanding how it works. The litigation in particular over “end-to-end” technology was relatable to another of our readings concerning the cyclical nature of major discoveries. Monumental discoveries pique public excitement, satisfy wants for a period, then a new issue arises and the cycle restarts (Wu 2010). Litigation comes into effect in the production of innovations and releasing them to the public. Overall, the debates set forth in this week’s readings introduced many major means of communication and spread of information. 
 
-You can use the [editor on GitHub](https://github.com/bwhitworth01/Bradley-s-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bwhitworth01/Bradley-s-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Works Cited:
+Carey, J. (2009). Technology and Ideology: The case of the Telegraph
+Gillespie, T. (2006) Engineering a Principle: ‘End-to-End’ in the Design of the Internet. Social Studies of Science, Vol 36, No. 3. Sage Publications
+Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapters 1 and 15, pages 3 -14, and 196-203
